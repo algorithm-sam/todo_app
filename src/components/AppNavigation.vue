@@ -12,7 +12,7 @@
           >Register</router-link
         >
         <router-link
-          class="nav-links text-white bg-purple-300 py-2 px-6 rounded-full"
+          class="lg:nav-links text-white bg-purple-500 py-2 px-6 rounded-full mr-0"
           tag="a"
           :to="{ name: 'login' }"
           >Login</router-link
