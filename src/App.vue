@@ -16,3 +16,12 @@
   color: #42b983;
 }
 </style>
+
+<script>
+export default {
+  name: "App"
+  // component: {
+  //   AppNavigation
+  // }
+};
+</script>
