@@ -40,9 +40,13 @@ export default new Router({
       path: "/todo",
       name: "todo",
       component: Todo,
+      redirect: {
+        name: 'recent'
+      },
+
       children: [
         {
-          path: "",
+          path: "recent",
           name: "recent",
           component: RecentCategory
         },
