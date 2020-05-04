@@ -5,25 +5,25 @@
         class="container mx-auto flex items-center justify-between lg:py-20 "
       >
         <div class="hidden lg:block lg:w-2/5">
-          Image of a confused fellow.
+          <img src="../assets/hero.png" alt="Confused Dude">
         </div>
 
         <div class="w-screen lg:w-3/5 text-center lg:text-left">
           <h1
             class="text-xl text-white lg:text-3xl font-semibold mb-6 capitalize"
           >
-            Are You Laden with so much responsibility and faced with the dilema
+            Are You Laden with so much responsibility and faced with the dilemma
             of concentrating on any?
           </h1>
           <p class="lg:hidden block text-gray-100 font-normal text-lg">
-            {Project Name} Helps you overcome that challange by ordering your
+            <b>Smart Todo</b> Helps you overcome that challange by ordering your
             tasks according to deadline and priority. Let's help you make
             working more fun.
           </p>
 
           <p class="hidden lg:block text-gray-100 font-normal text-lg">
-            {Project Name} Helps you overcome that challange by ordering your
-            tasks according to deadline and priority. {Project Name} helps you
+            <b>Smart Todo</b> Helps you overcome that challange by ordering your
+            tasks according to deadline and priority. <b>Smart Todo</b> helps you
             focus on the most important task at any given time either with other
             of priority or with other of closest deadline. Never be caught
             unaware anymore. Let us help you make working more fun.
@@ -38,18 +38,18 @@
     </div>
 
     <div class="description py-10 ">
-      <div class="container mx-auto px-2 lg:p-0">
-        <div class="flex flex-wrap h-full items-center -mx-10 contents-center">
-          <div class="w-full lg:w-1/2 order-2 lg:order-1 px-10">
-          <h1 class="my-6 lg:mb-6 text-xl font-gray-800 font-semibold ">See How Others are using {Project Name}</h1>
+      <div class="container mx-auto lg:px-2 lg:p-0">
+        <div class="flex flex-wrap h-full items-center lg:-mx-10 contents-center">
+          <div class="w-full lg:w-1/2 order-2 lg:order-1 lg:px-10 px-3">
+          <h1 class="my-6 lg:mb-6 text-xl font-gray-800 font-semibold ">See How Others are using <b>Smart Todo</b></h1>
 
             <p class="text-lg text-center lg:text-left">
-              3mmanuel is using {Project Name} to keep up to date with tasks his
+              3mmanuel is using <b>Smart Todo</b> to keep up to date with tasks his
               office assigned him. More like a mobile trello.
             </p>
           </div>
 
-          <div class="w-full lg:w-1/2 order-1 lg:order-2 px-10">
+          <div class="w-full lg:w-1/2 order-1 lg:order-2 lg:px-10 px-3">
             <div class="w-full h-full text-center">
               <img src="../assets/mobile.png" alt="Phone_Images" class=" mx-auto" style="height:350px; width:200px; align:center;">
             </div>
@@ -58,11 +58,11 @@
       </div>
     </div>
 
-    <div class="cta  text-center p-10 bg-white">
+    <div class="cta text-center p-10 bg-white h-64">
       <div class="container mx-auto">
 
+          <h3 class="text-2xl font-semibold text-gray-700 mb-3">Don't You think you want in ? </h3>
         <p class="text-xl">
-          Don't You think you want in ? <br />
           We're totally free and opensourced too. Yipee!!!
         </p>
 

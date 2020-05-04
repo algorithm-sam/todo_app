@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white">
-    <div class="container flex mx-auto justify-between p-4 items-center">
+    <div class="container flex mx-auto justify-between py-4 px-2 lg:p-4 items-center">
       <router-link :to="{ name: 'todo' }" class="font-bold text-lg"
         >Logo</router-link
       >
