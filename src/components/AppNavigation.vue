@@ -1,7 +1,7 @@
 <template>
   <div class="bg-white">
     <div class="container flex mx-auto justify-between p-4 items-center">
-      <router-link :to="{ name: 'home' }" class="font-bold text-lg"
+      <router-link :to="{ name: 'todo' }" class="font-bold text-lg"
         >Logo</router-link
       >
       <div>
