@@ -77,11 +77,13 @@
         </p>
 
         <div class="text-center mt-10">
-          <button
+          <router-link
+            tag="button"
+            :to="{ name: 'register' }"
             class="rounded-full px-6 py-3 bg-white text-purple-500 border border-purple-500"
           >
             Register for free
-          </button>
+          </router-link>
         </div>
       </div>
     </div>
