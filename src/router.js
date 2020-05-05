@@ -3,7 +3,7 @@ import Router from "vue-router";
 import Home from "./views/Home.vue";
 import Register from "./views/Register.vue";
 import Login from "./views/Login.vue";
-import AppContainer from "./views/AppContainer.vue";
+import AppContainer from "./components/AppContainer.vue";
 import FocusTodoView from "./views/Todo/FocusTodoView.vue";
 import Todo from "./views/Todo/Index.vue";
 import RecentCategory from "./views/Todo/RecentCategory.vue";
