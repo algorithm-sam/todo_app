@@ -10,7 +10,7 @@
 
         <div class="w-screen lg:w-3/5 text-center lg:text-right">
           <div
-            class="bg-white lg:w-2/3 lg:mx-auto pt-4 pb-40 lg:px-6 px-2 text-left"
+            class="bg-white lg:w-2/3 lg:mx-auto pt-4 pb-10 lg:px-6 px-2 text-left"
           >
             <form>
               <div class=" pb-10 pt-6">
