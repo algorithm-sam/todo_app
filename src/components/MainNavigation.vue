@@ -5,7 +5,7 @@
         <div class="list-none">
           <router-link
             tag="a"
-            :to="{ name: 'recent' }"
+            :to="{ name: 'home' }"
             class="menu-link menu-icon-only text-purple-600"
             ><i class="fa fa-list"></i
           ></router-link>
